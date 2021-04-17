@@ -4,4 +4,4 @@ About me:
 - :closed_book: Fun Facts: Self-studying Carl Jung's works is one of my top wishlist, I enjoy achievement/trophy hunting in video games than the video game itself and I have multiple interests and passions (check multipotentialite).
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=law911012eqw&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=law911012eqw&theme=tokyonight)
